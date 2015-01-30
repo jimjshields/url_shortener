@@ -4,7 +4,7 @@
 
 ###Basic features:
 1. ~~[Install requirements (Flask).](https://github.com/jimjshields/url_shortener/commit/5cbc70c75fc8808ab8a4c83275206294a092d8ff)~~
-2. Build a webpage you can visit in a web browser.
+2. ~~[Build a webpage you can visit in a web browser.](https://github.com/jimjshields/url_shortener/commit/0bd4bad68fdc70c82767129cb658b5cd7cf3e8b1)~~
 3. Make a form on this webpage.
 4. Make submitting the form return a new link.
 5. Make that link redirect you to the original site.
