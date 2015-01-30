@@ -3,7 +3,7 @@
 (Requirements found [here](https://hackpad.com/Building-a-url-shortener-JbagqacCoon))
 
 ###Basic features:
-1. Install requirements (Flask).
+1. ~~[Install requirements (Flask).](https://github.com/jimjshields/url_shortener/commit/5cbc70c75fc8808ab8a4c83275206294a092d8ff)~~
 2. Build a webpage you can visit in a web browser.
 3. Make a form on this webpage.
 4. Make submitting the form return a new link.
