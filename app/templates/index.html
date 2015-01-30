@@ -4,10 +4,14 @@
 </head>
 
 <body>
-	<form action="" type="post" name="url_shortener">		
-		<input type="text" value="Enter a URL to shorten.">
+	<form action="{{ url_for('shortenURL') }}" method="post">
+		<input type="text" size=50 name="url" placeholder="Enter a URL to shorten.">
 		<input type="submit" value="Shorten URL">
 	</form>
+	<hr>
+	
+	{% block new_url %}{% endblock %}
+	
 </body>
 
 </html>
